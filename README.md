@@ -1,3 +1,4 @@
+CSC 123 ASSIGNMENT(GROUP C)
 This is a python program that sort numbers in ascending or descending order
 function protype include
 
