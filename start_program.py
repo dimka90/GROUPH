@@ -1,6 +1,4 @@
 import GROUPH
-import time
-
 print(
         '''
         *****Sorting program*******
