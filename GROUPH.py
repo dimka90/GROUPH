@@ -1,4 +1,4 @@
-import sort
+
 import time
 """
 This function print the sorted list in ascending or descending order 
